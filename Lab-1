@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>LAB 1</title>
+    
+</head>
+
+<body style="background-color:rgb(163, 177, 177)" > 
+        <h1> <span style="color:rgb(93, 36, 9)"> Review phim COCO </h1>
+        <hr>
+        <div>
+            <iframe width="100%" height="600" src="https://www.youtube.com/embed/zNCz4mQzfEI" allowfullscreen></iframe>
+            <img src="https://images-na.ssl-images-amazon.com/images/I/A1tyD0nKdhL._SL1500_.jpg" align="left" width="600" height="1366" alt="coco" />
+</div>
+    <div>
+        <table border="6">
+            <tr>
+                <td>
+                        <img src="./img/1.jpg" width="400" height="300" alt="logo coco">
+                </td>
+                <td>
+                    <h2 style="text-align: center;">Câu chuyện kể về một cậu bé với tình yêu âm nhạc bao la.
+                        <p>
+                            <img src="http://rgb.vn/ideas/wp-content/uploads/2017/03/rgb_creative_1.png" width="300" height="200" alt="nhân vật" id="hinh anh">
+                        </p> 
+                    </h2>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2" span style="font-size:24px">
+                    <p> <b>  Imelda Rivera </b> là vợ của một nhạc sĩ, sống tại <i> Santa Cecilia </i>, Mexico. Chồng của Imelda đã bỏ cô và con gái, Coco, theo đuổi
+                    sự nghiệp âm nhạc của cá nhân. Vì thế, Imelda đã cấm âm nhạc trong gia đình và mở một cửa hàng kinh doanh giày gia truyền.
+                    Thời điểm hiện tại, chít trai của bà, Miguel, hiện đang sống với cụ bà Coco (con gái của Imelda) và gia đình nhiều thế hệ
+                    của họ. Cậu mơ ước trở thành một nhạc sĩ như Ernesto de la Cruz, một diễn viên nổi tiếng và cũng là một ca sĩ cùng thời với
+                    Imelda. Một ngày nọ, Miguel tình cờ làm vỡ bức ảnh của Imelda trên bàn thờ gia đình và đã mở nó, phát hiện ra rằng chồng
+                    của cụ bà Imelda (có khuôn mặt bị rách) đang cầm cây đàn guitar nổi tiếng của Ernesto. Cho rằng mình là hậu duệ của Ernesto,
+                    Miguel biện luận với bà Elena của mình và bỏ đi để tham gia một chương trình tài năng trong Ngày lễ dành cho người đã khuất.................    
+                    </p>
+                 </td>
+            </tr>
+
+            <tr>
+                <td colspan="2" span style="font-size:32px">
+                    <h2 stylye="font-color:blue; text-color:blue" > <u> Cảm nhận và đánh giá </u></h2>
+                    <p>
+                         <i> Nửa đầu phim thì cũng chưa thuyết phục mình lắm nhưng sang nửa sau thì xuất sắc quá biết nói gì bây giờ. Phim đúng thể loại
+                        mình thích luôn, từ ý tưởng đến câu chuyện. Ending xuất sắc quá không có gì để chê cả. Hồi trailer cứ nghĩ là Undertale Disney
+                        Musical nhưng xem phim mới thấy trailer lạc đề trăm tám. Địt mẹ con Olaf. Ghét từ Frozen giờ bắt coi 22 phút như tra tấn.
+                        22 phút là bằng 2 tập cartoon 1 tập anime chứ ít gì. Thể loại tỏ ra happy go lucky nhưng chả qua do kịch bản cho em hên thôi
+                        em giaiiiiiiiii. Đồ họa đẹp, khoe công nghệ má lúm đồng tiền đồ. Nói thiệt là cái vụ má lúm đồng tiền là khoe công nghệ diễn
+                        hoạt mới đó chứ nó chả liên quan gì tới cốt truyện đâu nhưng mà với mình thì nó ấn tượng thiệt. Mình thích vụ tâm linh nhưng
+                        tôn trọng giá trị gia đình lắm luôn. Căn bản thì sống hạnh phúc là quan trọng nhất rồi.</i> 
+                    </p>
+                </td>
+            </tr>
+
+
+        </table>
+        
+</div>
+    
+</body>
+</html>
